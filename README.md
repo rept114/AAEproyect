@@ -73,6 +73,9 @@ Para este proyecto se creó una escena en Unity donde se presentan los elementos
 
 -Modelo de luz custom
 
+ **Video:**
+ https://drive.google.com/drive/folders/1BWDHbmXisKzas6CjPvyxorWm3f2zTaxv?usp=sharing
+
 Referencias
 
 1. Anónimo. (s.f.). Superficie de agua simulada con animación de caso-vértice. 25/05/2021, de programador clic Sitio web: [https://programmerclick.com/article/82521837246/](https://programmerclick.com/article/82521837246/)
